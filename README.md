@@ -82,8 +82,8 @@
 
 
 <td width="25%" align="center">
-<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
-<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+<span>JDBC</span><br><br>
+<img height="64px" src="./images/download-removebg-preview (7).png">
 </td>
 <td width="25%" align="center">
 <span>𝗚𝗶𝘁</span><br><br>
