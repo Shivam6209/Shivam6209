@@ -52,8 +52,8 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 </td>
 <td width="25%" align="center">
-<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
-<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+<span>JAVA</span><br><br>
+<img height="64px" src="https://shivam6209.github.io/docs/assets/img/java-logo-1.png">
 </td>
 </tr>
 <tr valign="top">
