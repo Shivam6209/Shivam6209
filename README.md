@@ -24,9 +24,9 @@
      
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
--  Mytheresa Website **[Live](https://github.com/101beardo/goofy-shock-9631)**
--  NetMeds.com Clone **[Live](https://github.com/lokeshahire/NetMeds-Clone)**
--  Kissflow Website Clone **[Live](https://github.com/Durgashankar001/Kissflow.com-Clone)**
+-  Student Registration System **[Repo](https://github.com/Shivam6209/even-party-7284)**
+-  Belk.com Clone **[Repo](https://github.com/Riteshsalve/silky-toothbrush-7443)**
+-  Quick Store **[Repo](https://guileless-macaron-20da24.netlify.app/)**
 
 <br/>
 
@@ -56,7 +56,7 @@
 <img height="64px" src="https://shivam6209.github.io/docs/assets/img/java-logo-1.png">
 </td>
 </tr>
-<tr valign="top">
+<tr valign="top" >
 <td width="25%" align="center">
 <span>MySql</span><br><br>
 <img height="70px" src="https://shivam6209.github.io/docs/assets/img/sql.png">
@@ -79,8 +79,6 @@
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 </td>
-
-
 <td width="25%" align="center">
 <span>JDBC</span><br><br>
 <img height="64px" src="./images/download-removebg-preview (7).png">
