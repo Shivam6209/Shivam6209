@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">I am Java Backend developer as a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities. Apart from programming, I enjoy reading books and listening to music.</p>
+<p align="center">Hello, my name is Shivam Kumar Jha, I am a java backend developer from Madhubani, Bihar. I am proficient in Java and have a strong command of frameworks like Spring and Hibernate. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my studies, I had the opportunity to work on various projects that helped me develop hands-on experience in Java programming.  Thank you for considering my profile, and I look forward to hearing from you.</p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
@@ -25,6 +25,7 @@
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 -  Student Registration System **[Repo](https://github.com/Shivam6209/even-party-7284)**
+
 -  Belk.com Clone **[Repo](https://github.com/Riteshsalve/silky-toothbrush-7443)**
 -  Quick Store **[Repo](https://guileless-macaron-20da24.netlify.app/)**
 
