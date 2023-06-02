@@ -52,26 +52,26 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 </td>
 <td width="25%" align="center">
-<span>JAVA</span><br><br>
+<span>Java</span><br><br>
 <img height="64px" src="https://shivam6209.github.io/docs/assets/img/java-logo-1.png">
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
-<span>NodeJS</span><br><br>
-<img height="70px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+<span>MySql</span><br><br>
+<img height="70px" src="https://shivam6209.github.io/docs/assets/img/sql.png">
 </td>
 <td width="25%" align="center">
-<span>Express</span><br><br>
-<img height="70px" src="https://cdn.svgporn.com/logos/express.svg">
+<span>Hibernate</span><br><br>
+<img height="70px" src="https://shivam6209.github.io/docs/assets/img/hibernate.png">
 </td>
 <td width="25%" align="center">
-<span>Mongodb</span><br><br>
-<img height="70px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+<span>Spring</span><br><br>
+<img height="70px" src="https://shivam6209.github.io/docs/assets/img/1614302.png">
 </td>
 <td width="25%" align="center">
-<span>Chakra UI</span><br><br>
-<img height="64px" src="https://img.icons8.com/color/344/chakra-ui.png">
+<span>Spring Boot</span><br><br>
+<img height="64px" src="https://shivam6209.github.io/docs/assets/img/1614368.png">
 </td>
 </tr>
 <tr valign="top">
