@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shivammasaistudent@gmail.com**
 
-- 👨‍💻 All my projects are available at my <a href="https://Shivam6209.github.io/" target="_blank">Portfolio</a>
+- 👨‍💻 All my projects are available at my [Portfolio](https://Shivam6209.github.io/){:target="_blank"}
      
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
