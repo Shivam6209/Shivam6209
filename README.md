@@ -60,7 +60,7 @@
 <tr valign="top" >
 <td width="25%" align="center">
 <span>MySql</span><br><br>
-<img height="70px" src="https://shivam6209.github.io/docs/assets/img/sql.png">
+<img height="70px" src="./images/sql.png">
 </td>
 <td width="25%" align="center">
 <span>Hibernate</span><br><br>
