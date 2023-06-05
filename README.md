@@ -20,8 +20,8 @@
 
 - 📫 How to reach me **shivammasaistudent@gmail.com**
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://Shivam6209.github.io/){:target="_blank"}
-     
+- 👨‍💻 All my projects are available at my [Portfolio](https://Shivam6209.github.io/){:onclick="window.open(this.href, '_blank'); return false;"}
+    
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 -  Student Registration System **[Repo](https://github.com/Shivam6209/even-party-7284)**
